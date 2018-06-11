@@ -1,0 +1,17 @@
+https://developers.google.com/books/docs/viewer/developers_guide?csw=1#The_Hello_World_of_Embedded_Viewer
+
+http://azuma006.hatenablog.com/entry/2015/07/19/220939
+
+https://community.embarcadero.com/blogs/entry/using-google-book-api-jp-1
+
+https://haniwaman.com/amazon-api-2/
+
+https://manablog.org/google-books-apis/
+
+http://papermashup.com/demos/jquery-list-filter/#/Broccoli/
+
+http://papermashup.com/jquery-list-filtering/
+
+http://kachibito.net/web-design/jquery-list-filtering.html
+
+http://www.kaasan.info/archives/1676
